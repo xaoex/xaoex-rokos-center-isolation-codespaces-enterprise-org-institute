@@ -1,1 +1,1 @@
-map .aoe forall
+exec maybe take or load .aoe forall maxopt all
